@@ -79,7 +79,7 @@ module.exports = {
     {
       type: "link",
       href: "/docs/res_schema",
-      text: "Skema Permintaan",
+      text: "Skema Respons",
     },
     {
       type: "link",
